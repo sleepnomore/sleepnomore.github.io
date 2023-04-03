@@ -367,9 +367,9 @@
     
     
     
-    <category term="短章" scheme="http://example.com/categories/%E7%9F%AD%E7%AB%A0/"/>
-    
     <category term="爱过及爱着" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/"/>
+    
+    <category term="短章" scheme="http://example.com/categories/%E7%9F%AD%E7%AB%A0/"/>
     
     <category term="自恋港男" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E8%87%AA%E6%81%8B%E6%B8%AF%E7%94%B7/"/>
     
