@@ -232,9 +232,9 @@
     <category term="我的CP们" scheme="http://example.com/categories/%E6%88%91%E7%9A%84CP%E4%BB%AC/"/>
     
     
-    <category term="偶尔创作" scheme="http://example.com/tags/%E5%81%B6%E5%B0%94%E5%88%9B%E4%BD%9C/"/>
-    
     <category term="许昌锄" scheme="http://example.com/tags/%E8%AE%B8%E6%98%8C%E9%94%84/"/>
+    
+    <category term="偶尔创作" scheme="http://example.com/tags/%E5%81%B6%E5%B0%94%E5%88%9B%E4%BD%9C/"/>
     
   </entry>
   
