@@ -58,7 +58,6 @@ http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/
 http://example.com/categories/%E6%97%A5%E8%AE%B0/
 http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E5%93%B2%E5%AD%A6%E5%A4%A7%E5%B8%88/
-http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E5%A7%91%E8%8B%8F%E4%B8%80%E7%89%87%E4%BA%91/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E8%90%BD%E6%8B%93%E5%8F%B0%E6%B9%BE%E4%BA%BA/
 http://example.com/categories/%E6%96%B0%E9%97%BB%E8%80%83%E5%8F%A4/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E5%8C%97%E4%BA%AC%E5%8D%97%E5%9F%8E/
@@ -68,3 +67,4 @@ http://example.com/categories/%E7%94%B5%E5%BD%B1/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E4%B8%9C%E5%8C%97%E5%B0%8F%E9%B9%BF/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/Anthony-Perkins/
 http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E6%B5%B7%E4%B8%B0%E7%8E%AB%E7%91%B0/
+http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E5%A7%91%E8%8B%8F%E6%9C%89%E7%89%87%E4%BA%91/
