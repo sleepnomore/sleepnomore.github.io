@@ -55,9 +55,9 @@
     
     
     
-    <category term="爱过及爱着" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/"/>
-    
     <category term="日记" scheme="http://example.com/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    <category term="爱过及爱着" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/"/>
     
     <category term="姑苏有片云" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E5%A7%91%E8%8B%8F%E6%9C%89%E7%89%87%E4%BA%91/"/>
     
@@ -471,9 +471,9 @@
     
     <category term="爱过及爱着" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/"/>
     
-    <category term="自恋港男" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E8%87%AA%E6%81%8B%E6%B8%AF%E7%94%B7/"/>
-    
     <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
+    
+    <category term="自恋港男" scheme="http://example.com/categories/%E7%88%B1%E8%BF%87%E5%8F%8A%E7%88%B1%E7%9D%80/%E8%87%AA%E6%81%8B%E6%B8%AF%E7%94%B7/"/>
     
     
     <category term="吴镇宇" scheme="http://example.com/tags/%E5%90%B4%E9%95%87%E5%AE%87/"/>
